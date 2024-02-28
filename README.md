@@ -7,7 +7,7 @@
 - Решето на Ератостен [eratosten.c](https://github.com/peshopbs2/UAZ24_SI10_CompSec/blob/main/eratosten.c)
 
 ## Второ упражнение
-- Цезаров шифър [cypher.c](https://github.com/peshopbs2/UAZ24_SI10_CompSec/blob/maincypher.c)
+- Цезаров шифър [cypher.c](https://github.com/peshopbs2/UAZ24_SI10_CompSec/blob/main/cypher.c)
 
 ## Трето упражнение
 - Дешифриране на Цезаров шифър с въвеждане на шифъра и ключа [ceasar_decypher.c](https://github.com/peshopbs2/UAZ24_SI10_CompSec/blob/main/ceasar_decypher.c)
