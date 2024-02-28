@@ -1,5 +1,4 @@
-# UAZ24_SI10_CompSec
-# UAZ24_KST8_CompSec Syllabus
+# UAZ24_SI10_CompSec Syllabus
 
 Хранилище за упражнения по дисциплина "Комп. сигурност" за спец. КСТ, група 8 в Университет "Проф. д-р Асен Златаров", гр. Бургас
 
@@ -11,8 +10,8 @@
 - Цезаров шифър [cypher.c](https://github.com/peshopbs2/UAZ24_SI10_CompSec/blob/maincypher.c)
 
 ## Трето упражнение
-- Дешифриране на Цезаров шифър с въвеждане на шифъра и ключа [ceasar_decode_input.c](https://github.com/peshopbs2/UAZ24_SI10_CompSec/blob/main/ceasar_decode_input.c)
-- Дешифриране на Цезаров шифър, който се въвежда от файл и въвеждане на ключ [ceasar_decode_file.c](https://github.com/peshopbs2UAZ24_SI10_CompSec/blob/main/ceasar_decode_file.c)
+- Дешифриране на Цезаров шифър с въвеждане на шифъра и ключа [ceasar_decypher.c](https://github.com/peshopbs2/UAZ24_SI10_CompSec/blob/main/ceasar_decypher.c)
+- Дешифриране на Цезаров шифър, който се въвежда от файл и въвеждане на ключ [caesar_decypher_file.c](https://github.com/peshopbs2UAZ24_SI10_CompSec/blob/main/caesar_decypher_file.c)
 
 ```
 Домашна работа:
