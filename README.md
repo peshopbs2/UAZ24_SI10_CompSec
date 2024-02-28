@@ -11,7 +11,7 @@
 
 ## Трето упражнение
 - Дешифриране на Цезаров шифър с въвеждане на шифъра и ключа [ceasar_decypher.c](https://github.com/peshopbs2/UAZ24_SI10_CompSec/blob/main/ceasar_decypher.c)
-- Дешифриране на Цезаров шифър, който се въвежда от файл и въвеждане на ключ [caesar_decypher_file.c](https://github.com/peshopbs2UAZ24_SI10_CompSec/blob/main/caesar_decypher_file.c)
+- Дешифриране на Цезаров шифър, който се въвежда от файл и въвеждане на ключ [caesar_decypher_file.c](https://github.com/peshopbs2/UAZ24_SI10_CompSec/blob/main/caesar_decypher_file.c)
 
 ```
 Домашна работа:
