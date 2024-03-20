@@ -16,11 +16,11 @@ char* vigenere_decrypt(char* cipher, char* key)
         
         if(islower(cipher[index]))
         {
-            plaintext[index] = 'a' + (cipher[index] - 'a' - shift + 26) % 26; //?
+            plaintext[index] = 'a' + (cipher[index] - 'a' - shift + 26) % 26;
         }
         else if(isupper(cipher[index]))
         {
-            plaintext[index] = 'A' + (cipher[index] - 'A' - shift + 26) % 26; //?
+            plaintext[index] = 'A' + (cipher[index] - 'A' - shift + 26) % 26;
         }
         else
         {
