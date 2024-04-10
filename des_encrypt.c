@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <openssl/des.h>
+#include <stdlib.h>
 #define KEY_SIZE 8
 #define DATA_SIZE 100
 
