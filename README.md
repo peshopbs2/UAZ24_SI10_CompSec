@@ -47,8 +47,8 @@
 - Работа с OpenSSL - декриптиране с DES [des_decrypt.c](https://github.com/peshopbs2/UAZ24_SI10_CompSec/blob/main/des_decrypt.c)
 
 ## Девето упражнение
-- Работа с OpenSSL - генериране на RSA ключ
-- Работа с OpenSSL - криптиране с RSA
+- Работа с OpenSSL - генериране на RSA ключ [rsa_generate_keys.c](https://github.com/peshopbs2/UAZ24_SI10_CompSec/blob/main/rsa_generate_keys.c)
+- Работа с OpenSSL - криптиране с RSA [rsa_encrypt.c](https://github.com/peshopbs2/UAZ24_SI10_CompSec/blob/main/rsa_encrypt.c)
 
 ## Десето упражнение
 - Декриптиране с RSA
